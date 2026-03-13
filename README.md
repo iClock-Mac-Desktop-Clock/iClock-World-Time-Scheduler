@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/iclock">  
+<a href="https://salidorandee.github.io/.github/iclock-desktop-clock">  
 <img src="https://img.shields.io/badge/GET_iClock-darkgreen?style=for-the-badge&logo=apple" alt="GET iClock">  
 </a>  
 </div>  
